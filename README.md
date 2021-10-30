@@ -8,5 +8,5 @@
 1.first
 2.second
 
-*a
-*b
+* a
+* b
